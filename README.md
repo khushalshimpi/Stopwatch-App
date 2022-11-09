@@ -14,7 +14,7 @@ Project  built from using
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow)
 
-[Click Me](https://frabjous-puppy-e37698.netlify.app/) to see the project Demo.
+[Click Me](https://stop-watch-khushal.netlify.app/) to see the project Demo.
 
 
 
